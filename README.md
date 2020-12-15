@@ -1,5 +1,3 @@
-Python Implementation of LDP protocols for longitudinal and multi-dimensional frequency estimates
-
 ## Abstract
 Longitudinal collection and analysis of multi-dimensional data through mobile connections with LDP for human mobility modeling.
 
