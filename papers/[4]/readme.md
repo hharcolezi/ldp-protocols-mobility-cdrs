@@ -7,9 +7,12 @@ This paper investigates the problem of collecting multidimensional data througho
 ## Experiments
 * Please refer to [1_ALLOMFREE_Analysis.ipynb](https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/blob/main/papers/%5B4%5D/1_ALLOMFREE_Analysis.ipynb) for the theoretical analysis.
 
-
-## Recommended citation
-
-
 ## Bibtex
-
+@misc{arcolezi2021improving,
+      title={Improving the Utility of Locally Differentially Private Protocols for Longitudinal and Multidimensional Frequency Estimates}, 
+      author={Héber H. Arcolezi and Jean-François Couchot and Bechara Al Bouna and Xiaokui Xiao},
+      year={2021},
+      eprint={2111.04636},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
