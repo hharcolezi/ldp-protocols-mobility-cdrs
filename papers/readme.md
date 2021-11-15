@@ -6,4 +6,4 @@
 
 [3] Arcolezi H.H., Couchot JF., Renaud D., Bouna B.A., Xiao X. (2021) **Differentially Private Multivariate Time Series Forecasting of Aggregated Human Mobility With Deep Learning: Input or Gradient Perturbation?** (Under review)
 
-[4] Arcolezi H.H., Couchot JF., Bouna B.A., Xiao X. (2021) **Improving the Utility of Locally Differentially Private Protocols for Longitudinal and Multidimensional Frequency Estimates**. (Under review)
+[4] Arcolezi H.H., Couchot JF., Bouna B.A., Xiao X. (2021) **Improving the Utility of Locally Differentially Private Protocols for Longitudinal and Multidimensional Frequency Estimates**. (Under review). https://arxiv.org/abs/2111.04636
