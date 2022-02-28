@@ -15,7 +15,7 @@ Héber H. Arcolezi, Jean-François Couchot, Bechara Al Bouna, and Xiaokui Xiao. 
 ## Bibtex
 @inproceedings{Arcolezi2021,
   doi = {10.1145/3459637.3482467},
-  url = {https://doi.org/10.1145/3459637.3482467},
+  url = { https://doi.org/10.1145/3459637.3482467 },
   year = {2021},
   month = nov,
   publisher = {ACM},
