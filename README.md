@@ -8,4 +8,4 @@ This repository is organized per paper (experiments and protocols) and will be r
 differential privacy, local differential privacy, longitudinal studies, multidimensional data, big data privacy, human mobility, privacy-preserving machine learning.
 
 ## Contact
-For any question about the experiments please contact: heber.hwang_arcolezi [at] univ-fcomte.fr
+For any question about the experiments please contact: heber.hwang-arcolezi [at] inria.fr
