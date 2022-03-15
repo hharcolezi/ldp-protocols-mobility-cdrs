@@ -5,7 +5,7 @@ This repository is organized per paper (experiments and protocols) and will be r
 differential privacy, local differential privacy, longitudinal studies, multidimensional data, big data privacy, human mobility, privacy-preserving machine learning.
 
 ## Environment
-I mainly used Python3 with numpy, panda, and numba libaries. Although not tested, the codes should run with any recent versions. The versions I use are listed below:
+I mainly used Python3 with numpy, pandas, and numba libaries. Although not tested, the codes should run with any recent versions. The versions I use are listed below:
 
 - Python 3.8.8
 - Numpy 1.19.5
