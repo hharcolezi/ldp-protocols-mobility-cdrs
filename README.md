@@ -13,4 +13,4 @@ I mainly used Python3 with numpy, pandas, and numba libaries. Although not teste
 - Numba 0.53.1
 
 ## Contact
-For any question about the experiments please contact: heber.hwang-arcolezi [at] inria.fr
+For any question about the experiments please contact [Héber H. Arcolezi](https://hharcolezi.github.io/): heber.hwang-arcolezi [at] inria.fr
