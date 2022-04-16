@@ -8,9 +8,15 @@ Longitudinal studies of human mobility could allow an understanding of human beh
 * Please refer to [1_GRR_Mobile_Phone_Data_VHs.ipynb](https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/blob/main/papers/%5B1%5D/1_GRR_Mobile_Phone_Data_VHs.ipynb) for the experimental evaluation with a real-world and open dataset.
 
 ## Recommended citation
+
+If our codes and work are useful to you, we would appreciate a reference to:
+
+```bash
 Arcolezi H.H., Couchot JF., Bouna B.A., Xiao X. (2021) Longitudinal Collection and Analysis of Mobile Phone Data with Local Differential Privacy. In: Friedewald M., Schiffner S., Krenn S. (eds) Privacy and Identity Management. Privacy and Identity 2020. IFIP Advances in Information and Communication Technology, vol 619. Springer, Cham. https://doi.org/10.1007/978-3-030-72465-8_3
+```
 
 ## Bibtex
+```bash
 @incollection{Arcolezi2021,
   doi = {10.1007/978-3-030-72465-8_3},
   url = {https://doi.org/10.1007/978-3-030-72465-8_3},
@@ -21,3 +27,4 @@ Arcolezi H.H., Couchot JF., Bouna B.A., Xiao X. (2021) Longitudinal Collection a
   title = {Longitudinal Collection and Analysis of Mobile Phone Data with Local Differential Privacy},
   booktitle = {{IFIP} Advances in Information and Communication Technology}
 }
+```
