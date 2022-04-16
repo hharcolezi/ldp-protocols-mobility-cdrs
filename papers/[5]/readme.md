@@ -8,9 +8,14 @@ Emergency medical services (EMS) provide crucial emergency assistance and ambula
 * Please refer to [1_Geo_Indistinguishability.ipynb](https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/blob/main/papers/%5B5%5D/1_Geo_Indistinguishability.ipynb) for the code of a Laplace mechanism that satisfy geo-indistinguishability.
 
 ## Recommended citation
+
+If our codes and work are useful to you, we would appreciate a reference to:
+```bash
 Arcolezi, H.H.; Cerna, S.; Guyeux, C.; Couchot, J.-F. Preserving Geo-Indistinguishability of the Emergency Scene to Predict Ambulance Response Time. Math. Comput. Appl. 2021, 26, 56. https://doi.org/10.3390/mca26030056.
+```
 
 ## Bibtex
+```bash
 @article{Arcolezi2021,
 author = {Arcolezi, Héber H. and Cerna, Selene and Guyeux, Christophe and Couchot, Jean-François},
 title = {Preserving Geo-Indistinguishability of the Emergency Scene to Predict Ambulance Response Time},
@@ -22,4 +27,4 @@ pages = {56},
 issn = {2297-8747},
 doi = {10.3390/mca26030056}
 }
-
+```
