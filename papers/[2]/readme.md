@@ -10,9 +10,12 @@ With local differential privacy (LDP), users can privatize their data and thus g
 * Please refer to [2_RS+FD_LDP_VHs.ipynb](https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/blob/main/papers/%5B2%5D/2_RS%2BFD_LDP_VHs.ipynb) for the experimental evaluation with a real-world and open dataset.
 
 ## Recommended citation
+```bash
 Héber H. Arcolezi, Jean-François Couchot, Bechara Al Bouna, and Xiaokui Xiao. 2021. Random Sampling Plus Fake Data: Multidimensional Frequency Estimates With Local Differential Privacy. In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM’21), November 1–5, 2021, Virtual Event, QLD, Australia. ACM, New York, NY,USA, 11 pages. https://doi.org/10.1145/3459637.3482467.
+```
 
 ## Bibtex
+```bash
 @inproceedings{Arcolezi2021,
   doi = {10.1145/3459637.3482467},
   url = { https://doi.org/10.1145/3459637.3482467 },
@@ -23,3 +26,4 @@ Héber H. Arcolezi, Jean-François Couchot, Bechara Al Bouna, and Xiaokui Xiao. 
   title = {Random Sampling Plus Fake Data: Multidimensional Frequency Estimates With Local Differential Privacy},
   booktitle = {Proceedings of the 30th ACM International Conference on Information \& Knowledge Management}
 }
+```
