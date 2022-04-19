@@ -1,5 +1,8 @@
+## Update
+We're releasing a Python package [Multi-Freq-LDPy](https://github.com/hharcolezi/multi-freq-ldpy) for Multiple Frequency Estimation Under Local Differential Privacy in Python.
+
 ## Content
-This repository is organized per paper (experiments and protocols) and will be regularly updated. Please refer to the [papers](https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/tree/main/papers) folder.
+This repository is organized per paper (experiments and protocols) and is regularly updated. Please refer to the [papers](https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/tree/main/papers) folder.
 
 ## Keywords
 differential privacy, local differential privacy, longitudinal studies, multidimensional data, big data privacy, human mobility, privacy-preserving machine learning.
