@@ -7,7 +7,6 @@ Longitudinal studies of human mobility could allow an understanding of human beh
 ## Experiments
 * Please refer to [1_GRR_Mobile_Phone_Data_VHs.ipynb](https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/blob/main/papers/%5B1%5D/1_GRR_Mobile_Phone_Data_VHs.ipynb) for the experimental evaluation with a real-world and open dataset.
 
-
 ## Additional Resources 
 * [Authors pdf Version](http://hharcolezi.github.io/files/2020_IFIP_SS_Mobile_data_LDP.pdf)
 
