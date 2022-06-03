@@ -12,18 +12,24 @@ This paper investigates the problem of forecasting multivariate aggregated human
 ## Dataset
 The multivariate time series dataset we use for the experiments is available here as [ML_final_df_real.csv](https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/blob/main/papers/%5B3%5D/ML_final_df_real.csv).
 
-## Bibtex
+## Recommended citation
+
 If you consider using our findings and dataset in your research, we would appreciate a reference to:
 
 ```bash
-@misc{Arcolezi2022,
-  doi = {10.48550/ARXIV.2205.00436},
-  url = {https://arxiv.org/abs/2205.00436},
-  author = {Arcolezi,  Héber H. and Couchot,  Jean-Fran\c{c}ois and Renaud,  Denis and Bouna,  Bechara Al and Xiao,  Xiaokui},
-  title = {Differentially Private Multivariate Time Series Forecasting of Aggregated Human Mobility With Deep Learning: Input or Gradient Perturbation?},
-  publisher = {arXiv},
-  year = {2022}
-}
+Arcolezi, H.H., Couchot, JF., Renaud, D. et al. Differentially private multivariate time series forecasting of aggregated human mobility with deep learning: Input or gradient perturbation?. Neural Comput & Applic (2022). https://doi.org/10.1007/s00521-022-07393-0
 ```
 
-Please notice this bibtex entry will be updated with the accepted version that will be published in the [NCAA journal](https://www.springer.com/journal/521).
+## Bibtex
+```bash
+@article{Arcolezi2022,
+  doi = {10.1007/s00521-022-07393-0},
+  url = {https://doi.org/10.1007/s00521-022-07393-0},
+  year = {2022},
+  month = jun,
+  publisher = {Springer Science and Business Media {LLC}},
+  author = {H{\'{e}}ber Hwang Arcolezi and Jean-Fran{\c{c}}ois Couchot and Denis Renaud and Bechara Al Bouna and Xiaokui Xiao},
+  title = {Differentially private multivariate time series forecasting of aggregated human mobility with deep learning: Input or gradient perturbation?},
+  journal = {Neural Computing and Applications}
+}
+```
