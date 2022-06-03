@@ -12,6 +12,9 @@ This paper investigates the problem of forecasting multivariate aggregated human
 ## Dataset
 The multivariate time series dataset we use for the experiments is available here as [ML_final_df_real.csv](https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/blob/main/papers/%5B3%5D/ML_final_df_real.csv).
 
+## Additional Resources 
+* [Authors pdf Version](http://hharcolezi.github.io/files/2022_DPDL_Time_Series_Input_VS_Gradient.pdf)
+
 ## Recommended citation
 
 If you consider using our findings and dataset in your research, we would appreciate a reference to:
