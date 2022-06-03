@@ -10,9 +10,9 @@ With local differential privacy (LDP), users can privatize their data and thus g
 * Please refer to [2_RS+FD_LDP_VHs.ipynb](https://github.com/hharcolezi/ldp-protocols-mobility-cdrs/blob/main/papers/%5B2%5D/2_RS%2BFD_LDP_VHs.ipynb) for the experimental evaluation with a real-world and open dataset.
 
 ## Additional Resources 
-* [Authors pdf Version](http://hharcolezi.github.io/files/2021_LDP_RS_FD_arxived.pdf).
-* [Presentation](http://hharcolezi.github.io/files/2021_CIKM_Presentation.pdf).
-* [Video-Presentation](https://screencast-o-matic.com/watch/crQtokV6CIl).
+* [Authors pdf Version](http://hharcolezi.github.io/files/2021_LDP_RS_FD_arxived.pdf)
+* [Presentation](http://hharcolezi.github.io/files/2021_CIKM_Presentation.pdf)
+* [Video-Presentation](https://screencast-o-matic.com/watch/crQtokV6CIl)
 
 ## Recommended citation
 
