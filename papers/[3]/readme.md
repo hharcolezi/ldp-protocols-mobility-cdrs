@@ -19,12 +19,12 @@ The multivariate time series dataset we use for the experiments is available her
 
 If you consider using our findings and dataset in your research, we would appreciate a reference to:
 
-```bash
+```
 Arcolezi, H.H., Couchot, JF., Renaud, D. et al. Differentially private multivariate time series forecasting of aggregated human mobility with deep learning: Input or gradient perturbation?. Neural Comput & Applic (2022). https://doi.org/10.1007/s00521-022-07393-0
 ```
 
 ## Bibtex
-```bash
+```
 @article{Arcolezi2022,
   doi = {10.1007/s00521-022-07393-0},
   url = {https://doi.org/10.1007/s00521-022-07393-0},
